@@ -4,7 +4,7 @@ This project is part of the **Data Analysis with Python** certification from [fr
 
 ## Visualizations
 
-![](./line_plot.png)
+![](./sea_level_plot.png)
 
 ## Files
 
